@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Kaan! 👋
 
-<!--
-**Kaandinc/Kaandinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineering Student** at **Toros University**. I'm a passionate developer who loves exploring the intersection of high-performance software and gaming.
+---
+### 🔭 Currently Working On
+* **Game Development:**
+* **Modding & Optimization:**
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+* **Languages:** C++, C#, Python, LUA.
+* * **Tools:** Git, Visual Studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Obsessed with squeezing every bit of performance out of both code and hardware."*
