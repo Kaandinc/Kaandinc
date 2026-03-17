@@ -3,8 +3,8 @@
 I am a **Software Engineering Student** at **Toros University**. I'm a passionate developer who loves exploring the intersection of high-performance software and gaming.
 ---
 ### 🔭 Currently Working On
-* **Game Development:**
-* **Modding & Optimization:**
+* **Game Development**
+* **Modding & Optimization**
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** C++, C#, Python, LUA.
